@@ -106,4 +106,4 @@ On the client, clone the repo locally and run
 ```
 python3 tools/plot.py --ip <server-ip>
 ```
-![alt text](figures/image.png)
+![alt text](image.png)
