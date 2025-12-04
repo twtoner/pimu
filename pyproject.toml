@@ -1,0 +1,15 @@
+[project]
+name = "pimu"
+version = "0.1.0"
+description = "Stream data from an IMU through a Raspberry Pi."
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+  "pyzmq",
+  "matplotlib",
+]
+
+authors = [
+  { name = "Tyler Toner", email = "tonercommatyler@gmail.com" }
+]
